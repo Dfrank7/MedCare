@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982346335868",
+    "firebase_url": "https://fyproject-3933e.firebaseio.com",
+    "project_id": "fyproject-3933e",
+    "storage_bucket": "fyproject-3933e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982346335868:android:e6e2f0b201195aeb",
+        "android_client_info": {
+          "package_name": "com.example.oladipo.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982346335868-6ot3j8ca5okjokmd27q42008346gdt7c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.oladipo.fyp",
+            "certificate_hash": "08c5cd66984c2dfdffe244bca1ac8ff3c89ba2bc"
+          }
+        },
+        {
+          "client_id": "982346335868-v2qpra5nkhdul20opi8bh4geqafvdu3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3kNQQtx6Y23JuJwoPH0RdzkmRPvV9MbI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982346335868-v2qpra5nkhdul20opi8bh4geqafvdu3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
